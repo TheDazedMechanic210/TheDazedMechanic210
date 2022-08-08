@@ -1,4 +1,4 @@
-[![Header](git-hub-banner.png)](https://some-url.dev/)
+[![Header](github.png)](https://some-url.dev/)
 
 ## Hi There ! I am Ranjan.
 
